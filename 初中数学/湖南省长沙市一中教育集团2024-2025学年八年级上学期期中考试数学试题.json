@@ -13,6 +13,7 @@
     "category": "数学",
     "difficulty": "简单",
     "tags": ["轴对称图形", "几何"],
+    "img_url": "https://teamsedgestorage.blob.core.windows.net/exam-images/39e64589-f67e-423c-94e2-864803989cf9.png?se=2025-10-06T16%3A42%3A57Z&sp=r&sv=2025-01-05&sr=b&sig=6SBc3ipN3xFsDb3UXG1cdsf1GL5PMgW9MyRSwJU1F%2Bo%3D",
     "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "A、B、D选项中的图形都能找到这样的一条直线，使图形沿一条直线折叠，直线两旁的部分能够互相重合，所以是轴对称图形；C选项中的图形不能找到这样的一条直线，使图形沿一条直线折叠，直线两旁的部分能够互相重合，所以不是轴对称图形。"
   },
@@ -26,7 +27,26 @@
     "difficulty": "中等",
     "tags": ["三角形", "三角函数"],
     "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
+    "img_url":"https://teamsedgestorage.blob.core.windows.net/exam-images/9656dc5d-162b-4f1c-b2a4-66d69b680978.png?se=2025-10-06T16%3A43%3A45Z&sp=r&sv=2025-01-05&sr=b&sig=o1kkV8QG8bthxaq5D8qQIlZj9KOLUUQqg6XaedC4kBU%3D",
     "explanation": "在直角三角形ABC中，$\\angle ACB = 30°$，$AB = 2m$，根据30°角的性质，\n$$AC = 2AB = 4m$$"
+  },
+  {
+    "id": "q3",
+    "question": "蜜蜂的蜂巢的优美形状，是自然界最有效劳动的代表，如图，它是由很多个大小几乎相同的正六边形蜂房组成。正六边形的每个外角是",
+    "options": [
+      {"A": "30°"},
+      {"B": "45°"},
+      {"C": "60°"},
+      {"D": "120°"}
+    ],
+    "correct_answer": ["C"],
+    "selection_mode": "single",
+    "category": "数学",
+    "difficulty": "中等",
+    "tags": ["正多边形", "几何"],
+    "img_url": "https://teamsedgestorage.blob.core.windows.net/exam-images/d08c993d-f62b-4872-93ae-12e7b38c6948.png?se=2025-10-06T16%3A46%3A36Z&sp=r&sv=2025-01-05&sr=b&sig=3I1QZfvGU55/BOVYBQiTLLJhV4VSPAupdlYsU08Sr9U%3D",
+    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "explanation": "正六边形的外角和等于360°,由于正六边形有6个外角且大小相等,所以每个外角是$$\\frac{360°}{6}=60°$$。"
   },
   {
     "id": "q4",
@@ -42,6 +62,7 @@
     "category": "数学",
     "difficulty": "中等",
     "tags": ["平行线", "几何"],
+    "img_url": "https://teamsedgestorage.blob.core.windows.net/exam-images/e4d5b248-d9ed-47d7-8248-85ff5dc3ac47.png?se=2025-10-06T16%3A48%3A40Z&sp=r&sv=2025-01-05&sr=b&sig=rBYBihNEmXPupYwIthknGp/qVAw2TwZaooaQviYfCHw%3D",
     "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "A、当$\\angle 5=\\angle C$时，可得$AC\\parallel BD$，不合题意；\nB、当$\\angle 1=\\angle 2$时，可得$AC\\parallel BD$，不合题意；\nC、当$\\angle B=\\angle C$时，不能判定$AB\\parallel CE$，不符合题意；\nD、当$\\angle C+\\angle CAB=180°$时，可得$AB\\parallel CE$，符合题意。"
   },
@@ -76,6 +97,7 @@
     "category": "数学",
     "difficulty": "中等",
     "tags": ["三角形", "角平分线", "中线", "高线"],
+    "img_url": "https://teamsedgestorage.blob.core.windows.net/exam-images/a3b461a1-c553-419e-afe1-fb9bea78ce26.png?se=2025-10-06T16%3A49%3A14Z&sp=r&sv=2025-01-05&sr=b&sig=Zx8qqYmCa%2BVkGJnGsrDvBY907P7hns6WY8GgNzn%2BIoE%3D",
     "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "分析如下：\nA. AD是中线，所以$BD=CD$，而不是$AD=CD$；\nB. AE是角平分线，所以$$\\angle CAE=\\frac{1}{2}\\angle BAC$$，正确；\nC. AF是高线，所以$\\angle AFC=90°$，而不是$\\angle AEB=90°$；\nD. 从现有条件无法证得$DF=CF$。"
   },
@@ -93,6 +115,7 @@
     "category": "数学",
     "difficulty": "中等",
     "tags": ["四边形", "垂直平分线"],
+    "img_url": "https://teamsedgestorage.blob.core.windows.net/exam-images/6c3f697e-bac9-4b51-879b-18256fbc97e3.png?se=2025-10-06T16%3A50%3A25Z&sp=r&sv=2025-01-05&sr=b&sig=JDDpUjf/G9BNnFkn%2Bw1eulOSsFevC5b5n5NkeAwDTrE%3D",
     "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "点E为BD中点，且$AC\\perp BD$，即AC是BD的垂直平分线，\n∴$AD=AB=2cm$，$BC=CD$，\n由四边形ABCD的周长可得：$$AD+AB+CD+BC=16cm$$\n解得：$$CD=(16-2\\times 2)\\div 2=6(cm)$$"
   },
@@ -110,6 +133,7 @@
     "category": "数学",
     "difficulty": "中等",
     "tags": ["三角形", "等腰三角形", "角平分线"],
+    "img_url": "https://teamsedgestorage.blob.core.windows.net/exam-images/69e114bb-5907-430e-872a-a3ed5dfa156b.png?se=2025-10-06T16%3A51%3A06Z&sp=r&sv=2025-01-05&sr=b&sig=mJGp5jaWD/w2U64ltG9pt7tyRgxNmEURTv9F/cRYYUc%3D",
     "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "分析如下：\nA. $\\angle DAB=\\angle DAC$说明AD平分$\\angle BAC$，即AD是角平分线；\nB. $AD\\perp BD$，由等腰三角形性质可知AD是角平分线；\nC. 仅根据$BC=2AD$不能判断AD是角平分线；\nD. 由△ABD与△ACD的周长相等可推出$AB=AC$，进而可推出AD是角平分线。"
   },
@@ -127,6 +151,7 @@
     "category": "数学",
     "difficulty": "中等",
     "tags": ["全等三角形", "几何"],
+    "img_url":"https://teamsedgestorage.blob.core.windows.net/exam-images/af69bed7-909b-43d6-ad0d-6a4a00092a9b.png?se=2025-10-06T16%3A51%3A47Z&sp=r&sv=2025-01-05&sr=b&sig=%2BDgCGu4hErHCJxVrUFKioKNNQk%2BHNijQyIjE0U9ztN0%3D",
     "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "由$\\triangle ABC \\cong \\triangle DEF$可得：\nA. $AB=DE$ 正确；\nB. 可得对应角相等，故$AB\\parallel DE$ 正确；\nC. $AF=DF=DC$ 正确；\nD. 无法得出$\\angle BCD=\\angle DFE$，不正确。"
   },
@@ -144,6 +169,7 @@
     "category": "数学", 
     "difficulty": "困难",
     "tags": ["三角形", "全等三角形", "角的性质"],
+    "img_url":"https://teamsedgestorage.blob.core.windows.net/exam-images/62b963b4-2f1d-4fb9-83a5-15329055799b.png?se=2025-10-06T16%3A52%3A25Z&sp=r&sv=2025-01-05&sr=b&sig=X58YAp6Tt5IoFmiuqgCMIcoeqdCp9xDceHk5G7LpFEw%3D",
     "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "在△ADE和△ABC中：\n$AB=AD$，$AE=AC$，$\\angle B=\\angle ACE$\n所以$$\\triangle ADE \\cong \\triangle ABC$$ (SAS)\n因此：\n①$BC=DE$ 正确\n②$\\angle ACB=\\angle CFD$ 正确\n③$\\angle CED=\\angle CAD$ 正确\n④$CD=DE$ 不能由已知条件推出\n所以共有3个结论正确。"
   }

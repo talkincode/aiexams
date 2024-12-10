@@ -1,0 +1,150 @@
+[
+  {
+    "id": "q1",
+    "question": "剪纸窗花不仅是艺术品，更是文化的传承与创新。它们通过谐音、象征等手法，构成富于寓意的艺术画面。下面是某学校部分学生的作品，其中不是轴对称图形的是",
+    "options": [
+      {"A": "八卦形图案"},
+      {"B": "八角星图案"},  
+      {"C": "圆形福字图案"},
+      {"D": "花形图案"}
+    ],
+    "correct_answer": ["C"],
+    "selection_mode": "single", 
+    "category": "数学",
+    "difficulty": "简单",
+    "tags": ["轴对称图形", "几何"],
+    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "explanation": "A、B、D选项中的图形都能找到这样的一条直线，使图形沿一条直线折叠，直线两旁的部分能够互相重合，所以是轴对称图形；C选项中的图形不能找到这样的一条直线，使图形沿一条直线折叠，直线两旁的部分能够互相重合，所以不是轴对称图形。"
+  },
+  {
+    "id": "q2",
+    "question": "如图是某公园的一滑梯侧面图，已知$\\angle ACB = 30°$，滑梯架的高AB为2m，则滑梯AC长为",
+    "options": [{ "A": "4m" }, { "B": "5m" }, { "C": "6m" }, { "D": "7m" }],
+    "correct_answer": ["A"],
+    "selection_mode": "single",
+    "category": "数学",
+    "difficulty": "中等",
+    "tags": ["三角形", "三角函数"],
+    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "explanation": "在直角三角形ABC中，$\\angle ACB = 30°$，$AB = 2m$，根据30°角的性质，\n$$AC = 2AB = 4m$$"
+  },
+  {
+    "id": "q4",
+    "question": "如图，点E在CD延长线上，下列条件中能判定$AB\\parallel CE$的是",
+    "options": [
+      { "A": "$\\angle 5 = \\angle C$" },
+      { "B": "$\\angle 1 = \\angle 2$" },
+      { "C": "$\\angle B = \\angle C$" },
+      { "D": "$\\angle C + \\angle CAB = 180°$" }
+    ],
+    "correct_answer": ["D"],
+    "selection_mode": "single",
+    "category": "数学",
+    "difficulty": "中等",
+    "tags": ["平行线", "几何"],
+    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "explanation": "A、当$\\angle 5=\\angle C$时，可得$AC\\parallel BD$，不合题意；\nB、当$\\angle 1=\\angle 2$时，可得$AC\\parallel BD$，不合题意；\nC、当$\\angle B=\\angle C$时，不能判定$AB\\parallel CE$，不符合题意；\nD、当$\\angle C+\\angle CAB=180°$时，可得$AB\\parallel CE$，符合题意。"
+  },
+  {
+    "id": "q5",
+    "question": "下列式子计算正确的是",
+    "options": [
+      { "A": "$(2ab)^2 = 4ab^2$" },
+      { "B": "$(-y^3)^2 = -y^6$" },
+      { "C": "$x^2\\cdot x^3 = x^5$" },
+      { "D": "$xy^3\\div xy^3 = xy^4$" }
+    ],
+    "correct_answer": ["C"],
+    "selection_mode": "single",
+    "category": "数学",
+    "difficulty": "中等",
+    "tags": ["代数", "指数运算"],
+    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "explanation": "计算过程如下：\nA. $$(2ab)^2 = 4a^2b^2$$，原选项错误；\nB. $$(-y^3)^2 = y^6$$，原选项错误；\nC. $$x^2\\cdot x^3 = x^5$$，正确；\nD. $$xy^3\\div xy^3 = 1$$，原选项错误。"
+  },
+  {
+    "id": "q6",
+    "question": "如图，已知D是BC的中点，AE、AF分别是△ABC的角平分线、高线，则下列结论正确的是",
+    "options": [
+      { "A": "$AD = CD$" },
+      { "B": "$\\angle CAE = \\frac{1}{2}\\angle BAC$" },
+      { "C": "$\\angle AEB = 90°$" },
+      { "D": "$DF = CF$" }
+    ],
+    "correct_answer": ["B"],
+    "selection_mode": "single",
+    "category": "数学",
+    "difficulty": "中等",
+    "tags": ["三角形", "角平分线", "中线", "高线"],
+    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "explanation": "分析如下：\nA. AD是中线，所以$BD=CD$，而不是$AD=CD$；\nB. AE是角平分线，所以$$\\angle CAE=\\frac{1}{2}\\angle BAC$$，正确；\nC. AF是高线，所以$\\angle AFC=90°$，而不是$\\angle AEB=90°$；\nD. 从现有条件无法证得$DF=CF$。"
+  },
+  {
+    "id": "q7",
+    "question": "如图是一风筝的骨架图，其中点E为BD中点，且$AC\\perp BD$，若$AB=2cm$，四边形ABCD的周长为16cm，则CD的长为",
+    "options": [
+      {"A": "2cm"},
+      {"B": "6cm"},
+      {"C": "7cm"},
+      {"D": "14cm"}
+    ],
+    "correct_answer": ["B"],
+    "selection_mode": "single",
+    "category": "数学",
+    "difficulty": "中等",
+    "tags": ["四边形", "垂直平分线"],
+    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "explanation": "点E为BD中点，且$AC\\perp BD$，即AC是BD的垂直平分线，\n∴$AD=AB=2cm$，$BC=CD$，\n由四边形ABCD的周长可得：$$AD+AB+CD+BC=16cm$$\n解得：$$CD=(16-2\\times 2)\\div 2=6(cm)$$"
+  },
+  {
+    "id": "q8",
+    "question": "在一古典园林建筑\"爱晚亭\"中，其顶端可看作等腰三角形ABC，$AB=AC$，D是边BC上的一点。下列条件不能说明AD是△ABC的角平分线的是",
+    "options": [
+      {"A": "$\\angle DAB = \\angle DAC$"},
+      {"B": "$AD\\perp BD$"},
+      {"C": "$BC = 2AD$"},
+      {"D": "△ABD与△ACD的周长相等"}
+    ],
+    "correct_answer": ["C"],
+    "selection_mode": "single",
+    "category": "数学",
+    "difficulty": "中等",
+    "tags": ["三角形", "等腰三角形", "角平分线"],
+    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "explanation": "分析如下：\nA. $\\angle DAB=\\angle DAC$说明AD平分$\\angle BAC$，即AD是角平分线；\nB. $AD\\perp BD$，由等腰三角形性质可知AD是角平分线；\nC. 仅根据$BC=2AD$不能判断AD是角平分线；\nD. 由△ABD与△ACD的周长相等可推出$AB=AC$，进而可推出AD是角平分线。"
+  },
+  {
+    "id": "q9",
+    "question": "如图，已知$\\triangle ABC \\cong \\triangle DEF$，则下列结论不正确的是",
+    "options": [
+      {"A": "$AB = DE$"},
+      {"B": "$AB\\parallel DE$"},
+      {"C": "$AF = DC$"},
+      {"D": "$\\angle BCD = \\angle DFE$"}
+    ],
+    "correct_answer": ["D"],
+    "selection_mode": "single",
+    "category": "数学",
+    "difficulty": "中等",
+    "tags": ["全等三角形", "几何"],
+    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "explanation": "由$\\triangle ABC \\cong \\triangle DEF$可得：\nA. $AB=DE$ 正确；\nB. 可得对应角相等，故$AB\\parallel DE$ 正确；\nC. $AF=DF=DC$ 正确；\nD. 无法得出$\\angle BCD=\\angle DFE$，不正确。"
+  },
+  {
+    "id": "q10",
+    "question": "如图，在△ABC中，$AB=AC$，点C是BD上一点，过点C作$\\angle ACE=\\angle B$，交AD于点F，连接AE、CE，且$AE=AC$，则下列结论正确的个数是\n（结论：①$BC=DE$，②$\\angle ACB=\\angle CFD$，③$\\angle CED=\\angle CAD$，④$CD=DE$）",
+    "options": [
+      {"A": "1个"},
+      {"B": "2个"},
+      {"C": "3个"},
+      {"D": "4个"}
+    ],
+    "correct_answer": ["C"],
+    "selection_mode": "single",
+    "category": "数学", 
+    "difficulty": "困难",
+    "tags": ["三角形", "全等三角形", "角的性质"],
+    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "explanation": "在△ADE和△ABC中：\n$AB=AD$，$AE=AC$，$\\angle B=\\angle ACE$\n所以$$\\triangle ADE \\cong \\triangle ABC$$ (SAS)\n因此：\n①$BC=DE$ 正确\n②$\\angle ACB=\\angle CFD$ 正确\n③$\\angle CED=\\angle CAD$ 正确\n④$CD=DE$ 不能由已知条件推出\n所以共有3个结论正确。"
+  }
+]

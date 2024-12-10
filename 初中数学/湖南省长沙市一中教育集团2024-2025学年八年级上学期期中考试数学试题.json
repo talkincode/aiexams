@@ -13,7 +13,7 @@
     "category": "数学",
     "difficulty": "简单",
     "tags": ["轴对称图形", "几何"],
-    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "A、B、D选项中的图形都能找到这样的一条直线，使图形沿一条直线折叠，直线两旁的部分能够互相重合，所以是轴对称图形；C选项中的图形不能找到这样的一条直线，使图形沿一条直线折叠，直线两旁的部分能够互相重合，所以不是轴对称图形。"
   },
   {
@@ -25,7 +25,7 @@
     "category": "数学",
     "difficulty": "中等",
     "tags": ["三角形", "三角函数"],
-    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "在直角三角形ABC中，$\\angle ACB = 30°$，$AB = 2m$，根据30°角的性质，\n$$AC = 2AB = 4m$$"
   },
   {
@@ -42,7 +42,7 @@
     "category": "数学",
     "difficulty": "中等",
     "tags": ["平行线", "几何"],
-    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "A、当$\\angle 5=\\angle C$时，可得$AC\\parallel BD$，不合题意；\nB、当$\\angle 1=\\angle 2$时，可得$AC\\parallel BD$，不合题意；\nC、当$\\angle B=\\angle C$时，不能判定$AB\\parallel CE$，不符合题意；\nD、当$\\angle C+\\angle CAB=180°$时，可得$AB\\parallel CE$，符合题意。"
   },
   {
@@ -59,7 +59,7 @@
     "category": "数学",
     "difficulty": "中等",
     "tags": ["代数", "指数运算"],
-    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "计算过程如下：\nA. $$(2ab)^2 = 4a^2b^2$$，原选项错误；\nB. $$(-y^3)^2 = y^6$$，原选项错误；\nC. $$x^2\\cdot x^3 = x^5$$，正确；\nD. $$xy^3\\div xy^3 = 1$$，原选项错误。"
   },
   {
@@ -76,7 +76,7 @@
     "category": "数学",
     "difficulty": "中等",
     "tags": ["三角形", "角平分线", "中线", "高线"],
-    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "分析如下：\nA. AD是中线，所以$BD=CD$，而不是$AD=CD$；\nB. AE是角平分线，所以$$\\angle CAE=\\frac{1}{2}\\angle BAC$$，正确；\nC. AF是高线，所以$\\angle AFC=90°$，而不是$\\angle AEB=90°$；\nD. 从现有条件无法证得$DF=CF$。"
   },
   {
@@ -93,7 +93,7 @@
     "category": "数学",
     "difficulty": "中等",
     "tags": ["四边形", "垂直平分线"],
-    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "点E为BD中点，且$AC\\perp BD$，即AC是BD的垂直平分线，\n∴$AD=AB=2cm$，$BC=CD$，\n由四边形ABCD的周长可得：$$AD+AB+CD+BC=16cm$$\n解得：$$CD=(16-2\\times 2)\\div 2=6(cm)$$"
   },
   {
@@ -110,7 +110,7 @@
     "category": "数学",
     "difficulty": "中等",
     "tags": ["三角形", "等腰三角形", "角平分线"],
-    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "分析如下：\nA. $\\angle DAB=\\angle DAC$说明AD平分$\\angle BAC$，即AD是角平分线；\nB. $AD\\perp BD$，由等腰三角形性质可知AD是角平分线；\nC. 仅根据$BC=2AD$不能判断AD是角平分线；\nD. 由△ABD与△ACD的周长相等可推出$AB=AC$，进而可推出AD是角平分线。"
   },
   {
@@ -127,7 +127,7 @@
     "category": "数学",
     "difficulty": "中等",
     "tags": ["全等三角形", "几何"],
-    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "由$\\triangle ABC \\cong \\triangle DEF$可得：\nA. $AB=DE$ 正确；\nB. 可得对应角相等，故$AB\\parallel DE$ 正确；\nC. $AF=DF=DC$ 正确；\nD. 无法得出$\\angle BCD=\\angle DFE$，不正确。"
   },
   {
@@ -144,7 +144,7 @@
     "category": "数学", 
     "difficulty": "困难",
     "tags": ["三角形", "全等三角形", "角的性质"],
-    "source": "2024-2025学年度第一学期八年级期中考试数学试题",
+    "source": "湖南省长沙市一中教育集团2024-2025学年八年级上学期期中考试数学试题",
     "explanation": "在△ADE和△ABC中：\n$AB=AD$，$AE=AC$，$\\angle B=\\angle ACE$\n所以$$\\triangle ADE \\cong \\triangle ABC$$ (SAS)\n因此：\n①$BC=DE$ 正确\n②$\\angle ACB=\\angle CFD$ 正确\n③$\\angle CED=\\angle CAD$ 正确\n④$CD=DE$ 不能由已知条件推出\n所以共有3个结论正确。"
   }
 ]

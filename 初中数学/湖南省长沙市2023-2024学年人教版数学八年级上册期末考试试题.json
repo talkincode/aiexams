@@ -1,0 +1,326 @@
+[
+  {
+    "id": "q1",
+    "question": "在下列长度的各组线段中，能组成三角形的是（ ）。",
+    "options": [
+      {
+        "A": "1, 2, 4"
+      },
+      {
+        "B": "1, 4, 9"
+      },
+      {
+        "C": "3, 4, 5"
+      },
+      {
+        "D": "50, 4, 59"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中数学",
+    "difficulty": "简单",
+    "tags": ["三角形", "线段"],
+    "explanation": "根据三角形的三边关系，任意两边之和大于第三边，可知选项C满足条件。",
+    "source": "湖南省长沙市2023-2024学年人教版数学八年级上册期末考试试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q2",
+    "question": "下列图标中是轴对称图形的是（ ）。",
+    "options": [
+      {
+        "A": "A"
+      },
+      {
+        "B": "B"
+      },
+      {
+        "C": "C"
+      },
+      {
+        "D": "D"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["D"],
+    "category": "初中数学",
+    "difficulty": "简单",
+    "tags": ["轴对称图形"],
+    "explanation": "轴对称图形是指沿着一条直线折叠，直线两旁的部分能够完全重合的图形，选项D为轴对称图形。",
+    "source": "湖南省长沙市2023-2024学年人教版数学八年级上册期末考试试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/960b9774-3815-49d4-a607-41abc83848c6.png?se=2025-10-11T07%3A59%3A19Z&sp=r&sv=2025-01-05&sr=b&sig=p0%2BHfw9gMoHJH1K9Z6k4gQQ3pJ9aeL/mz9wFMMcS2tA%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q3",
+    "question": "如图，在平面直角坐标系xOy中，点P(-3, 5)关于y轴的对称点的坐标为（ ）。",
+    "options": [
+      {
+        "A": "(-3, -5)"
+      },
+      {
+        "B": "(3, 5)"
+      },
+      {
+        "C": "(3, -5)"
+      },
+      {
+        "D": "(5, -3)"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中数学",
+    "difficulty": "简单",
+    "tags": ["坐标", "对称"],
+    "explanation": "关于y轴对称的点的特点是横坐标变为相反数，纵坐标不变，因此点P(-3, 5)关于y轴的对称点为(3, 5)。",
+    "source": "湖南省长沙市2023-2024学年人教版数学八年级上册期末考试试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/19a66c43-e837-4568-b655-eea887f762a8.png?se=2025-10-11T08%3A00%3A11Z&sp=r&sv=2025-01-05&sr=b&sig=amtqzjG6bykbpLugWhrZYUp4MzZuwXL25aov/njFneM%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q4",
+    "question": "下列计算中正确的是（ ）。",
+    "options": [
+      {
+        "A": "$(ab^3)^2 = ab^6$"
+      },
+      {
+        "B": "$a^8 \\div a^2 = a^4$"
+      },
+      {
+        "C": "$a^2 \\cdot a^4 = a^8$"
+      },
+      {
+        "D": "$(-a^2)^3 = -a^6$"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["D"],
+    "category": "初中数学",
+    "difficulty": "简单",
+    "tags": ["幂的运算"],
+    "explanation": "根据幂的运算性质，选项A，$(ab^3)^2 = a^2b^6$；选项B，$a^8 \\div a^2 = a^6$；选项C，$a^2 \\cdot a^4 = a^6$；选项D，$(-a^2)^3 = -a^6$。",
+    "source": "湖南省长沙市2023-2024学年人教版数学八年级上册期末考试试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q5",
+    "question": "如图，已知 AB = AD，那么添加下列一个条件后，不能判定△ABC≌△ADC的是（ ）。",
+    "options": [
+      {
+        "A": "CB = CD"
+      },
+      {
+        "B": "∠BAC = ∠DAC"
+      },
+      {
+        "C": "∠BCA = ∠DCA"
+      },
+      {
+        "D": "∠B = ∠D = 90°"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中数学",
+    "difficulty": "中等",
+    "tags": ["全等三角形"],
+    "explanation": "根据全等三角形的判定定理，添加CB=CD，可以用SSS判定；添加∠BAC=∠DAC可以用SAS判定；添加∠B=∠D=90°可以用HL判定；添加∠BCA=∠DCA不能判定全等。",
+    "source": "湖南省长沙市2023-2024学年人教版数学八年级上册期末考试试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/4e88c082-7c13-4ebe-b574-b5c967ee8605.png?se=2025-10-11T08%3A00%3A40Z&sp=r&sv=2025-01-05&sr=b&sig=W97MAEs%2B/tLHQJQAQjvZGfOyyYUkiSBjpABpCwWs7Os%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q6",
+    "question": "若分式 $\\frac{x-1}{x+3}$ 的值为0，则x的值应为（ ）。",
+    "options": [
+      {
+        "A": "-3"
+      },
+      {
+        "B": "-1"
+      },
+      {
+        "C": "1"
+      },
+      {
+        "D": "3"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中数学",
+    "difficulty": "简单",
+    "tags": ["分式"],
+    "explanation": "分式值为0，则分子为0，且分母不为0，即x-1=0，且x+3≠0，解得x=1。",
+    "source": "湖南省长沙市2023-2024学年人教版数学八年级上册期末考试试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q7",
+    "question": "已知,如图,D、B、C、E四点共线,∠ABD+∠ACE=230°,则∠A的度数为( )",
+    "options": [
+      {
+        "A": "50°"
+      },
+      {
+        "B": "60°"
+      },
+      {
+        "C": "70°"
+      },
+      {
+        "D": "80°"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中数学",
+    "difficulty": "中等",
+    "tags": ["三角形内角和"],
+    "explanation": "由∠ABD+∠ACE=230°, 得∠ABC+∠ACB=130°,在△ABC中，利用内角和等于180°可得∠A=50°。",
+    "source": "湖南省长沙市2023-2024学年人教版数学八年级上册期末考试试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/6c9b78cd-0435-4e38-b252-7318047b82b1.png?se=2025-10-11T08%3A01%3A10Z&sp=r&sv=2025-01-05&sr=b&sig=f3ESuJEkR2YyFdk9csFUpUCy%2BSpnnWTooPrfGlgQmIc%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q8",
+    "question": "下列分解因式中，完全正确的是( )",
+    "options": [
+      {
+        "A": "$x^3-x=x(x^2-1)$"
+      },
+      {
+        "B": "$4a^2-4a+1=4a(a-1)+1$"
+      },
+      {
+        "C": "$x^2+y^2=(x+y)^2$"
+      },
+      {
+        "D": "$6a-9-a^2=-(a-3)^2$"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["D"],
+    "category": "初中数学",
+    "difficulty": "中等",
+    "tags": ["因式分解"],
+    "explanation": "根据因式分解的定义，选项A,$x^3-x=x(x^2-1)=x(x+1)(x-1)$;选项B,结果不是乘积的形式；选项C,$(x+y)^2=x^2+2xy+y^2$；选项D，正确。",
+    "source": "湖南省长沙市2023-2024学年人教版数学八年级上册期末考试试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q9",
+    "question": "若m+n=3,则$2m^2+4mn+2n^2-5$的值为( )",
+    "options": [
+      {
+        "A": "13"
+      },
+      {
+        "B": "18"
+      },
+      {
+        "C": "5"
+      },
+      {
+        "D": "1"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中数学",
+    "difficulty": "中等",
+    "tags": ["代数式求值"],
+    "explanation": "$2m^2+4mn+2n^2-5=2(m^2+2mn+n^2)-5=2(m+n)^2-5$,因为m+n=3,所以原式=2×3²-5=13。",
+    "source": "湖南省长沙市2023-2024学年人教版数学八年级上册期末考试试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q10",
+    "question": "若代数式 $\\frac{1}{x-2}$ 和 $\\frac{3}{2x+1}$ 的值相等,则x的值为( )",
+    "options": [
+      {
+        "A": "7"
+      },
+      {
+        "B": "2"
+      },
+      {
+        "C": "1"
+      },
+      {
+        "D": "无解"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中数学",
+    "difficulty": "中等",
+    "tags": ["分式方程"],
+    "explanation": "根据题意得$\\frac{1}{x-2}=\\frac{3}{2x+1}$，解得x=7，经检验x=7是分式方程的解。",
+    "source": "湖南省长沙市2023-2024学年人教版数学八年级上册期末考试试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q11",
+    "question": "从边长为a的大正方形纸板正中央挖去一个边长为b的小正方形后,将其裁成四个大小和形状完全相同的四边形(如图1),然后拼成一个平行四边形(如图2),那么通过计算两个图形阴影部分的面积,可以验证成立的等式为( )",
+    "options": [
+      {
+        "A": "$a^2-b^2 = (a-b)^2$"
+      },
+      {
+        "B": "$(a+b)^2 = a^2+2ab+b^2$"
+      },
+      {
+        "C": "$(a-b)^2 = a^2-2ab+b^2$"
+      },
+      {
+        "D": "$a^2-b^2 =(a+b)(a-b)$"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["D"],
+    "category": "初中数学",
+    "difficulty": "中等",
+    "tags": ["平方差公式"],
+    "explanation": "图1中阴影部分的面积为$a^2-b^2$,图2中阴影部分的面积为(a+b)(a-b)，所以$a^2-b^2 =(a+b)(a-b)$。",
+    "source": "湖南省长沙市2023-2024学年人教版数学八年级上册期末考试试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/475cb053-569b-46d7-ad27-02652b513c3e.png?se=2025-10-11T08%3A01%3A54Z&sp=r&sv=2025-01-05&sr=b&sig=DbW7YYRxiktrnZdwcpDdS9i1p%2BXnzhqbGUklHsAST7U%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q12",
+    "question": "如图,任意△ABC中,∠ABC与∠ACB的平分线交于点F,过点F作DE//BC交AB于点D,交AC于点E,那么下列结论:①∠A=2∠BFC–180°;②DE=CE+BD;③△ADE的周长等于AB+AC;④BF>CF,其中正确的有( )",
+    "options": [
+      {
+        "A": "1"
+      },
+      {
+        "B": "2"
+      },
+      {
+        "C": "3"
+      },
+      {
+        "D": "4"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中数学",
+    "difficulty": "困难",
+    "tags": ["角平分线", "平行线", "三角形"],
+    "explanation": "由角平分线定义及三角形内角和可得①正确；由平行线的性质和角平分线定义可得BD=DF,CE=EF,从而推出DE=CE+BD,②正确；△ADE的周长等于AD+DE+AE=AD+DF+EF+AE=AD+BD+CE+AE=AB+AC,③正确;无法判断∠FBC,∠FCB的大小关系,所以BF,CF的大小也无法判断，故④错误，所以正确的有3个。",
+    "source": "湖南省长沙市2023-2024学年人教版数学八年级上册期末考试试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/3addd9b0-d719-4b28-9685-0e02dc71508b.png?se=2025-10-11T08%3A02%3A48Z&sp=r&sv=2025-01-05&sr=b&sig=UbagZeJtXBk3e9BEnCIV4XrrzGU665s78o1jLT8pdaA%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  }
+]

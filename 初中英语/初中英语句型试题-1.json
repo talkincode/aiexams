@@ -1,0 +1,137 @@
+[
+  {
+    "id": "q1",
+    "question": "选择下列选项中正确的句子结构：\"She ______ playing the piano every Sunday.\"",
+    "options": [
+      {
+        "A": "is"
+      },
+      {
+        "B": "does"
+      },
+      {
+        "C": "were"
+      },
+      {
+        "D": "are"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中英语",
+    "difficulty": "中等",
+    "tags": ["句型", "现在进行时"],
+    "explanation": "句子需要用到现在进行时态，主语是\"She\"，所以动词be动词使用\"is\"。完整句子为：\"She is playing the piano every Sunday.\"",
+    "source": "人工智能出题",
+    "img_url": "",
+    "created_at": "2023-12-14T14:36:00Z"
+  },
+  {
+    "id": "q2",
+    "question": "下列句子中哪个使用了正确的被动语态？",
+    "options": [
+      {
+        "A": "The book was write by him."
+      },
+      {
+        "B": "The book is written by him."
+      },
+      {
+        "C": "The book wrote by him."
+      },
+      {
+        "D": "The book is writing by him."
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中英语",
+    "difficulty": "中等",
+    "tags": ["句型", "被动语态"],
+    "explanation": "被动语态的结构是：be动词 + 过去分词。选项B符合这一结构：\"The book is written by him.\"",
+    "source": "人工智能出题",
+    "img_url": "",
+    "created_at": "2023-12-14T14:36:00Z"
+  },
+  {
+    "id": "q3",
+    "question": "以下哪个选项正确使用了条件句？",
+    "options": [
+      {
+        "A": "If it rains, we will stay at home."
+      },
+      {
+        "B": "If it rain, we will staying at home."
+      },
+      {
+        "C": "If it rained, we will stay at home."
+      },
+      {
+        "D": "If it rains, we stay at home."
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中英语",
+    "difficulty": "中等",
+    "tags": ["句型", "条件句"],
+    "explanation": "条件句的第一种形式为：If + 主语 + 一般现在时, 主语 + will + 动词原形。选项A符合这一结构。",
+    "source": "人工智能出题",
+    "img_url": "",
+    "created_at": "2023-12-14T14:36:00Z"
+  },
+  {
+    "id": "q4",
+    "question": "选择下列选项中正确的感叹句：",
+    "options": [
+      {
+        "A": "What a beautiful day it is!"
+      },
+      {
+        "B": "How a beautiful day it is!"
+      },
+      {
+        "C": "What beautiful a day it is!"
+      },
+      {
+        "D": "How beautiful a day it is!"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中英语",
+    "difficulty": "中等",
+    "tags": ["句型", "感叹句"],
+    "explanation": "感叹句使用“What + a/an + 形容词 + 名词 + 主语 + 谓语!”的结构。选项A符合此结构。",
+    "source": "人工智能出题",
+    "img_url": "",
+    "created_at": "2023-12-14T14:36:00Z"
+  },
+  {
+    "id": "q5",
+    "question": "选择下列选项中正确的否定句：",
+    "options": [
+      {
+        "A": "He don't likes apples."
+      },
+      {
+        "B": "He doesn't like apples."
+      },
+      {
+        "C": "He not likes apples."
+      },
+      {
+        "D": "He isn't like apples."
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中英语",
+    "difficulty": "中等",
+    "tags": ["句型", "否定句"],
+    "explanation": "否定句在一般现在时中，第三人称单数需使用\"doesn't\"，结合动词原形。选项B正确：\"He doesn't like apples.\"",
+    "source": "人工智能出题",
+    "img_url": "",
+    "created_at": "2023-12-14T14:36:00Z"
+  }
+]

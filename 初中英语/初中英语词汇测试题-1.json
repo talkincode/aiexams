@@ -1,0 +1,137 @@
+[
+  {
+    "id": "q1",
+    "question": "Which word best completes the sentence: \"He is very ______ about the results of his tests.\"",
+    "options": [
+      {
+        "A": "anxious"
+      },
+      {
+        "B": "excited"
+      },
+      {
+        "C": "bored"
+      },
+      {
+        "D": "calm"
+      }
+    ],
+    "correct_answer": ["A"],
+    "selection_mode": "single",
+    "category": "英语",
+    "difficulty": "中等",
+    "tags": ["词汇", "情感形容词"],
+    "explanation": "The correct answer is 'anxious'. The sentence implies that he is worried or nervous about his test results. 中文解释：正确答案是'anxious'，句子暗示他对考试结果感到担心或紧张。",
+    "source": "人工智能出题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q2",
+    "question": "Choose the word that is most similar in meaning to \"fortunate\":",
+    "options": [
+      {
+        "A": "rich"
+      },
+      {
+        "B": "lucky"
+      },
+      {
+        "C": "smart"
+      },
+      {
+        "D": "brave"
+      }
+    ],
+    "correct_answer": ["B"],
+    "selection_mode": "single",
+    "category": "英语",
+    "difficulty": "中等",
+    "tags": ["词汇", "同义词"],
+    "explanation": "The word 'lucky' is similar in meaning to 'fortunate', both suggesting a favorable outcome by chance. 中文解释：'lucky'与'fortunate'意思相近，都表示由于偶然因素而得到的好结果。",
+    "source": "人工智能出题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q3",
+    "question": "Which word means the opposite of \"expand\"?",
+    "options": [
+      {
+        "A": "increase"
+      },
+      {
+        "B": "extend"
+      },
+      {
+        "C": "contract"
+      },
+      {
+        "D": "enlarge"
+      }
+    ],
+    "correct_answer": ["C"],
+    "selection_mode": "single",
+    "category": "英语",
+    "difficulty": "中等",
+    "tags": ["词汇", "反义词"],
+    "explanation": "The word 'contract' is the opposite of 'expand', meaning to become smaller or shrink. 中文解释：'contract'是'expand'的反义词，意思是变小或收缩。",
+    "source": "人工智能出题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q4",
+    "question": "Complete the sentence with the correct word: \"She has a ______ ability to remember details.\"",
+    "options": [
+      {
+        "A": "remarkable"
+      },
+      {
+        "B": "common"
+      },
+      {
+        "C": "ordinary"
+      },
+      {
+        "D": "usual"
+      }
+    ],
+    "correct_answer": ["A"],
+    "selection_mode": "single",
+    "category": "英语",
+    "difficulty": "中等",
+    "tags": ["词汇", "形容词"],
+    "explanation": "The correct word is 'remarkable', which means worthy of attention or extraordinary. 中文解释：正确的词是'remarkable'，表示值得注意或非凡的。",
+    "source": "人工智能出题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q5",
+    "question": "Which word best fits the blank: \"The scientist conducted an ______ experiment.\"",
+    "options": [
+      {
+        "A": "accurate"
+      },
+      {
+        "B": "inaccurate"
+      },
+      {
+        "C": "accidental"
+      },
+      {
+        "D": "intentional"
+      }
+    ],
+    "correct_answer": ["D"],
+    "selection_mode": "single",
+    "category": "英语",
+    "difficulty": "中等",
+    "tags": ["词汇", "形容词"],
+    "explanation": "'Intentional' means done on purpose, which fits the context of conducting an experiment deliberately. 中文解释：'intentional'表示故意的，符合故意进行实验的语境。",
+    "source": "人工智能出题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  }
+]

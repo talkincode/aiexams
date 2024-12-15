@@ -1,0 +1,326 @@
+[
+  {
+    "id": "q1",
+    "question": "下列所估测的数据中，最接近实际的是（ ）",
+    "options": [
+      {
+        "A": "健康的中学生脉搏跳动一次的时间约10s"
+      },
+      {
+        "B": "教室门的高度约6m"
+      },
+      {
+        "C": "人正常的体温为39.8℃"
+      },
+      {
+        "D": "一个鸡蛋的质量约为50g"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["D"],
+    "category": "初中物理",
+    "difficulty": "简单",
+    "tags": ["估测", "生活常识"],
+    "explanation": "健康的中学生脉搏跳动一次的时间约0.8s；教室门的高度约2m；人正常的体温约为37°C，一个鸡蛋的质量约为50g左右。",
+    "source": "湖南省长沙市雅礼教育集团2023-2024学年八年级上学期期末物理试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q2",
+    "question": "下列关于实验仪器使用和选择的说法中，正确的是（ ）",
+    "options": [
+      {
+        "A": "使用实验室温度计测量液体温度读数时，温度计可以从液体中取出读数"
+      },
+      {
+        "B": "使用量筒测量水的体积时，读数时视线应该与凹液面底部相平"
+      },
+      {
+        "C": "在探究光的反射定律实验中选择比较光滑的纸板便于观察实验现象"
+      },
+      {
+        "D": "在探究平面镜成像的实验中应尽可能选厚一点玻璃板"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["实验", "仪器", "测量"],
+    "explanation": "使用温度计读数时不能取出；量筒读数时视线与凹液面底部相平；探究反射定律用粗糙纸板；探究平面镜成像用薄玻璃板。",
+    "source": "湖南省长沙市雅礼教育集团2023-2024学年八年级上学期期末物理试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q3",
+    "question": "下列关于行驶中的云巴的说法，正确的是（ ）",
+    "options": [
+      {
+        "A": "以路面为参照物，云巴是静止的"
+      },
+      {
+        "B": "以路旁的树木为参照物，云巴是静止的"
+      },
+      {
+        "C": "以路旁的房屋为参照物，云巴是运动的"
+      },
+      {
+        "D": "以车内的乘客为参照物，云巴是运动的"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中物理",
+    "difficulty": "简单",
+    "tags": ["运动", "参照物"],
+    "explanation": "以路面、树木、房屋为参照物，云巴的位置都发生了改变，所以是运动的；以车内乘客为参照物，云巴的位置没有改变，所以是静止的。",
+    "source": "湖南省长沙市雅礼教育集团2023-2024学年八年级上学期期末物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/afb65986-f73f-41a6-8493-562e633aaea3.png?se=2025-10-11T14%3A23%3A55Z&sp=r&sv=2025-01-05&sr=b&sig=THC3qkZzIh8aqNFbdSAsGVNKgDozjvZoFx7mpcF5Rdc%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q4",
+    "question": "下列关于图中声现象的说法，正确的是（ ）",
+    "options": [
+      {
+        "A": "图甲：逐渐抽出玻璃罩中的空气，听到正响铃的闹钟声逐渐变小，推论得出真空不能传声"
+      },
+      {
+        "B": "图乙：敲击编钟时，若用力越大，编钟振动发出声音的音调就会越高"
+      },
+      {
+        "C": "图丙：超声波清洗眼睛，主要是利用了声音能够传递信息"
+      },
+      {
+        "D": "图丁：在强噪声环境中，工人需要佩戴耳罩是在传播过程中减弱噪声"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["声现象", "传播", "响度", "音调"],
+    "explanation": "真空不能传声；敲击编钟用力越大，响度越大；超声波清洗利用能量；耳罩在人耳处减弱噪声。",
+    "source": "湖南省长沙市雅礼教育集团2023-2024学年八年级上学期期末物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/2bfbd6b2-50aa-4e18-a3f3-59664348aebd.png?se=2025-10-11T14%3A24%3A34Z&sp=r&sv=2025-01-05&sr=b&sig=T%2B3mSKM/ifYW3ENpSM9uYq3wlZj/sKeLK/0FWT5phzU%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q5",
+    "question": "“打铁花”是国家级非物质文化遗产，其中涉及的物态变化过程有（ ）",
+    "options": [
+      {
+        "A": "升华、凝华"
+      },
+      {
+        "B": "升华、凝固"
+      },
+      {
+        "C": "熔化、凝固"
+      },
+      {
+        "D": "熔化、凝华"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["物态变化", "熔化", "凝固"],
+    "explanation": "生铁烧至1600℃以上化成铁水，属于熔化；铁水在空中凝固放热变为固态，属于凝固。",
+    "source": "湖南省长沙市雅礼教育集团2023-2024学年八年级上学期期末物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/df4f9f08-3eeb-442c-882e-7215a2349ef4.png?se=2025-10-11T14%3A25%3A14Z&sp=r&sv=2025-01-05&sr=b&sig=ISp7lnS5wSzmYY8bFsuPld9eEEE8/vOLlhD3U2B46l4%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q6",
+    "question": "关于固体熔化时温度的变化规律，下列说法正确的是（ ）",
+    "options": [
+      {
+        "A": "图甲中的实验装置，安装时应按照“由上到下”的顺序"
+      },
+      {
+        "B": "由图乙知，A物质是晶体，B物质是非晶体"
+      },
+      {
+        "C": "由图乙知，第4min时A物质处于固态"
+      },
+      {
+        "D": "由图乙知，A图线对应物质的熔化过程持续时间为6min"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["熔化", "晶体", "非晶体"],
+    "explanation": "图甲中，应由下到上安装；晶体有熔点，非晶体没有；A物质在2~6min处于熔化过程，4min是固液共存状态；A图线对应物质的熔化时间是4min。",
+    "source": "湖南省长沙市雅礼教育集团2023-2024学年八年级上学期期末物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/84528868-f57e-40d1-a192-98f71fd8706d.png?se=2025-10-11T14%3A25%3A39Z&sp=r&sv=2025-01-05&sr=b&sig=jRHS328q31XcbZzmAPG4%2BRo6C0%2BwLCpR10VLimW%2B%2BsE%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q7",
+    "question": "关于“影”的形成原理，下列说法正确的是（ ）",
+    "options": [
+      {
+        "A": "景物倒“影”——光的反射"
+      },
+      {
+        "B": "爸爸正摄“影”——光的直线传播"
+      },
+      {
+        "C": "水中鱼“影”——光的反射"
+      },
+      {
+        "D": "爸爸的身“影”——光的折射"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["光的反射", "光的折射", "光的直线传播"],
+    "explanation": "景物倒影是平面镜成像，光的反射；爸爸摄影是凸透镜成像，光的折射；水中鱼影是光的折射；爸爸的身影是光的直线传播。",
+    "source": "湖南省长沙市雅礼教育集团2023-2024学年八年级上学期期末物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/8bef3e9c-eac9-47c5-bd44-537616215e67.png?se=2025-10-11T14%3A26%3A17Z&sp=r&sv=2025-01-05&sr=b&sig=Z4dvvjwoR6oQAwW7/tgecK8sPaXHSI/1vuOUXc%2Br7vw%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q8",
+    "question": "下列能说明渔民叉鱼时总是叉向鱼的下方，的光路图是（ ）",
+    "options": [
+      {
+        "A": "光路图A"
+      },
+      {
+        "B": "光路图B"
+      },
+      {
+        "C": "光路图C"
+      },
+      {
+        "D": "光路图D"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["光的折射", "光路图"],
+    "explanation": "从水中看物体，光线从水中进入空气，发生折射，折射角大于入射角，像的位置比实际位置要浅。",
+    "source": "湖南省长沙市雅礼教育集团2023-2024学年八年级上学期期末物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/ca18d3a9-f04f-40d4-9cfe-04d7fc453f27.png?se=2025-10-11T14%3A27%3A29Z&sp=r&sv=2025-01-05&sr=b&sig=8i7eO2J461Sz8XHw3q/jF%2BEHeCN8hs57pdiNLD3g1dA%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q9",
+    "question": "下列关于售货机器人的说法，正确的是（ ）",
+    "options": [
+      {
+        "A": "售货机器人的摄像头相当于凹透镜"
+      },
+      {
+        "B": "摄像头在拍摄时，物体在透镜两倍焦距以外"
+      },
+      {
+        "C": "售货机内的饮料看上去色泽亮丽，它是光源"
+      },
+      {
+        "D": "当手机上的付款码远离摄像头时，所成的像将变大"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["凸透镜成像", "焦距"],
+    "explanation": "摄像头相当于凸透镜；物体在二倍焦距以外成倒立缩小的实像；自身能发光的是光源；手机付款码远离摄像头，像变小。",
+    "source": "湖南省长沙市雅礼教育集团2023-2024学年八年级上学期期末物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/7be336b6-fb83-413f-8df0-6ceeff633bf2.png?se=2025-10-11T14%3A28%3A09Z&sp=r&sv=2025-01-05&sr=b&sig=lf//9jrypWczbRHrpxKyFtnK0KJyY/ldPU0lQmW9QlA%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q10",
+    "question": "下列关于电视机的说法，正确的是（ ）",
+    "options": [
+      {
+        "A": "彩色电视机画面上的丰富色彩是由红、黄、蓝三种色光混合而成"
+      },
+      {
+        "B": "小明看到电视屏幕上老师讲课的画面是因为光的反射"
+      },
+      {
+        "C": "小明觉得女老师讲课声音清脆而男老师声音低沉，是因为男女老师说话时响度不同"
+      },
+      {
+        "D": "电视机遥控器利用红外线实现对电视机的控制"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["D"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["光的混合", "光的反射", "响度", "红外线"],
+    "explanation": "彩色电视机是由红绿蓝三原色混合而成；电视屏幕发光，所以看到是光线进入眼睛；男女生音调不同，不是响度不同；遥控器使用红外线控制电视。",
+    "source": "湖南省长沙市雅礼教育集团2023-2024学年八年级上学期期末物理试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q11",
+    "question": "如图是两人运动的路程与时间的关系图象，下列说法正确的是（ ）",
+    "options": [
+      {
+        "A": "雅雅一直做匀速直线运动"
+      },
+      {
+        "B": "雅雅和礼礼是同时同地出发"
+      },
+      {
+        "C": "第10min时，两人相遇，距学校500m"
+      },
+      {
+        "D": "礼礼从小区到学校的平均速度是5m/s"
+      }
+    ],
+    "selection_mode": "multi",
+    "correct_answer": ["A", "C"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["图像", "匀速直线运动", "相遇"],
+    "explanation": "雅雅的图像是倾斜直线，所以匀速直线运动；礼礼比雅雅早出发；相遇时，路程是500m；礼礼的平均速度是0.83m/s。",
+    "source": "湖南省长沙市雅礼教育集团2023-2024学年八年级上学期期末物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/3c3dfa15-e281-4b02-8056-da9071bef222.png?se=2025-10-11T14%3A28%3A38Z&sp=r&sv=2025-01-05&sr=b&sig=v9Oyrzx0x1XewheilPOfIyjt%2BqOBeWzI4CzQ21rnBlc%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q12",
+    "question": "下列关于质量和密度的知识，说法正确的是（ ）",
+    "options": [
+      {
+        "A": "中国航天员在太空中授课时，太空中的陀螺比在地球上时的质量小"
+      },
+      {
+        "B": "一杯水喝掉一半后，质量减少，密度不变"
+      },
+      {
+        "C": "密度是物质的一种特质，不同种类的物质密度一定不同"
+      },
+      {
+        "D": "火灾发生时，为避免吸入燃烧后产生的有毒气体，人应尽量将身体贴近地面前进"
+      }
+    ],
+    "selection_mode": "multi",
+    "correct_answer": ["B", "D"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["质量", "密度", "物质特性"],
+    "explanation": "质量不随位置变化而变化；密度与质量无关；密度是物质的特性，不同物质一般密度不同，也有相同情况；火灾时，热空气上升，贴近地面可以减少吸入有害气体。",
+    "source": "湖南省长沙市雅礼教育集团2023-2024学年八年级上学期期末物理试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  }
+]

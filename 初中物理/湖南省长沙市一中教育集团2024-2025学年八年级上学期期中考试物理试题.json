@@ -1,0 +1,326 @@
+[
+  {
+    "id": "q1",
+    "question": "炎陵黄桃的直径约为（ ）。",
+    "options": [
+      {
+        "A": "8mm"
+      },
+      {
+        "B": "8cm"
+      },
+      {
+        "C": "8dm"
+      },
+      {
+        "D": "20cm"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中物理",
+    "difficulty": "简单",
+    "tags": ["长度估测", "单位换算"],
+    "explanation": "根据生活常识，黄桃直径一般在几厘米到十几厘米之间，8cm最为接近。",
+    "source": "2024-2025学年度第一学期八年级期中考试物理试题卷",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q2",
+    "question": "如图所示声波的波形图，下列说法正确的是（ ）。",
+    "options": [
+      {
+        "A": "甲声音在空气中传播速度最慢"
+      },
+      {
+        "B": "乙声音的响度最大"
+      },
+      {
+        "C": "乙、丙两种声音的音调相同"
+      },
+      {
+        "D": "丙、丁声音的音色相同"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["声波", "音调", "响度", "音色"],
+    "explanation": "声音在同一介质中传播速度相同；响度与振幅有关，振幅越大响度越大；音调与频率有关，频率相同则音调相同；音色与发声体的材料和结构有关。",
+    "source": "2024-2025学年度第一学期八年级期中考试物理试题卷",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/be43f33e-3651-4000-9864-bc2b1c6dedf6.png?se=2025-10-11T14%3A39%3A16Z&sp=r&sv=2025-01-05&sr=b&sig=1ETS8Jo8nqlnNq23zumPJfsKqUhyfexSQAQFo7crGW0%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q3",
+    "question": "小明在马路边上拍街景照片，连续拍了两张，如图甲、乙所示。下列说法中正确的是（ ）。",
+    "options": [
+      {
+        "A": "如果以轿车为参照物，树是向左运动的"
+      },
+      {
+        "B": "如果以轿车为参照物，卡车是向右运动的"
+      },
+      {
+        "C": "如果以骑自行车的人为参照物，树是向右运动的"
+      },
+      {
+        "D": "如果以轿车为参照物，骑自行车的人是向左运动的"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["参照物", "运动的相对性"],
+    "explanation": "以轿车为参照物，则树、卡车、骑自行车的人都向右运动。",
+    "source": "2024-2025学年度第一学期八年级期中考试物理试题卷",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/60906063-f105-413a-98d0-28ebe80f1ad5.png?se=2025-10-11T14%3A39%3A45Z&sp=r&sv=2025-01-05&sr=b&sig=oHAmIBgP30PIEUxO/PjK9TT7RxywTsvhZ7YJbOe8kP0%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q4",
+    "question": "下列事例中，主要利用声波传递能量的是（ ）。",
+    "options": [
+      {
+        "A": "用声呐探测海深"
+      },
+      {
+        "B": "利用倒车雷达确定与车后物体的距离"
+      },
+      {
+        "C": "利用B超做体检"
+      },
+      {
+        "D": "用超声波击碎结石"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["D"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["声波", "能量传递"],
+    "explanation": "声呐、倒车雷达和B超都是利用声波传递信息，超声波击碎结石是利用声波传递能量。",
+    "source": "2024-2025学年度第一学期八年级期中考试物理试题卷",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q5",
+    "question": "关于声波灭火器发出的音波，下列说法正确的是（ ）。",
+    "options": [
+      {
+        "A": "该音波的传播不需要介质"
+      },
+      {
+        "B": "该音波属于次声波"
+      },
+      {
+        "C": "声波灭火器发出的音波人耳是可以听到的"
+      },
+      {
+        "D": "该音波在15°C的空气中传播速度小于340 m/s"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["声波", "传播", "频率"],
+    "explanation": "声音的传播需要介质；人耳能听到的声音频率范围是20Hz-20000Hz，30-60Hz的声音人耳可以听到；15℃空气中声音传播速度约340m/s。",
+    "source": "2024-2025学年度第一学期八年级期中考试物理试题卷",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/695cb5eb-8d7d-4bc2-8d15-0a1e4fdc8d64.png?se=2025-10-11T14%3A40%3A15Z&sp=r&sv=2025-01-05&sr=b&sig=7Dz71AonIDaIwydyuj9/L7/Nz6cT3qL9T5jrijJQEKo%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q6",
+    "question": "超声波探伤仪发出超声波时，人耳不能察觉的原因是超声波的（ ）。",
+    "options": [
+      {
+        "A": "频率太高"
+      },
+      {
+        "B": "速度太快"
+      },
+      {
+        "C": "只能在固体中传播"
+      },
+      {
+        "D": "响度太大"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["超声波", "频率", "人耳听觉范围"],
+    "explanation": "人耳的听觉频率范围为20-20000Hz，超声波的频率高于20000Hz，人耳无法听到。",
+    "source": "2024-2025学年度第一学期八年级期中考试物理试题卷",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/9ebcddfb-778f-4449-997c-fef5abea6b0f.png?se=2025-10-11T14%3A40%3A48Z&sp=r&sv=2025-01-05&sr=b&sig=grE67SWeULdny3TuFmLrYyCyNAPNtm3egpCjXxbjuRA%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q7",
+    "question": "为了降低噪声对周围居民生活的影响，在万家丽高架桥上安装挡板，下列方法中与这种控制噪声的方法相同的是（ ）。",
+    "options": [
+      {
+        "A": "在街道里安装噪声检测仪"
+      },
+      {
+        "B": "午休时佩戴防噪音耳塞"
+      },
+      {
+        "C": "市区内严禁车辆鸣笛"
+      },
+      {
+        "D": "在城市街道两旁种草植树"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["D"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["噪声控制", "传播途径"],
+    "explanation": "安装挡板和在街道两旁种草植树都是在传播过程中减弱噪声；安装噪声检测仪是在声源处监测噪声；佩戴防噪声耳塞是在人耳处减弱噪声；严禁鸣笛是在声源处减弱噪声。",
+    "source": "2024-2025学年度第一学期八年级期中考试物理试题卷",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/17d0ad83-6de9-4198-8a97-0c2b9a2e016a.png?se=2025-10-11T14%3A41%3A13Z&sp=r&sv=2025-01-05&sr=b&sig=Zco7%2B/OCzs2FxHFFtSe3S6XM%2BoFnwaH2DKRSFM%2BCvhQ%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q8",
+    "question": "造雪机在造雪过程中，水发生的最主要物态变化是（ ）。",
+    "options": [
+      {
+        "A": "凝华"
+      },
+      {
+        "B": "凝固"
+      },
+      {
+        "C": "升华"
+      },
+      {
+        "D": "液化"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中物理",
+    "difficulty": "简单",
+    "tags": ["物态变化", "凝固"],
+    "explanation": "造雪机将液态水变成固态冰的过程是凝固。",
+    "source": "2024-2025学年度第一学期八年级期中考试物理试题卷",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/e0d8d6e7-f83f-464d-8e0b-012edef561db.png?se=2025-10-11T14%3A41%3A46Z&sp=r&sv=2025-01-05&sr=b&sig=Us%2BHuGtHgP8GeuYuNnyDy2z0rCcRM0O4LB2MaOpKrPk%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q9",
+    "question": "如图所示，火箭发射10s内，平均速度最接近（ ）。",
+    "options": [
+      {
+        "A": "3m/s"
+      },
+      {
+        "B": "6m/s"
+      },
+      {
+        "C": "15m/s"
+      },
+      {
+        "D": "18m/s"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["平均速度", "速度估算"],
+    "explanation": "由图可知，火箭10s内通过的距离大约是火箭长度的一半，即30m，所以平均速度为3m/s。",
+    "source": "2024-2025学年度第一学期八年级期中考试物理试题卷",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/edfd07a2-fe41-4a8c-8acf-3d7340c6f014.png?se=2025-10-11T14%3A42%3A22Z&sp=r&sv=2025-01-05&sr=b&sig=mZm10cXzTQjk8cSZjAoEW4bU1SLA6K8LW5h8qGqY/i0%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q10",
+    "question": "某同学晚上从路灯下走过时，他在地面上的影子长度变化是（ ）。",
+    "options": [
+      {
+        "A": "变长"
+      },
+      {
+        "B": "变短"
+      },
+      {
+        "C": "先变短后边长"
+      },
+      {
+        "D": "先变长后变短"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["光的直线传播", "影子"],
+    "explanation": "当人走向路灯时，影子逐渐变短；当人远离路灯时，影子逐渐变长。因此，影子先变短后变长。",
+    "source": "2024-2025学年度第一学期八年级期中考试物理试题卷",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/6bfc808e-6afe-4667-8824-7b776b4e8d7f.png?se=2025-10-11T14%3A43%3A06Z&sp=r&sv=2025-01-05&sr=b&sig=GawQdfDygHz%2BXH4NgKMnqzrOyGgxvRsipovBjUTByz0%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q11",
+    "question": "如图为新龟兔百米赛跑的 s-t 图像，根据图像判断正确的是（ ）。",
+    "options": [
+      {
+        "A": "比赛开始时，乌龟先于兔子出发"
+      },
+      {
+        "B": "比赛结果是乌龟获胜"
+      },
+      {
+        "C": "比赛途中，乌龟和兔子没有相遇"
+      },
+      {
+        "D": "整个比赛过程中兔子的平均速度更大"
+      }
+    ],
+    "selection_mode": "multi",
+    "correct_answer": ["A", "D"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["s-t图像", "速度", "相遇"],
+    "explanation": "由图可知，兔子晚出发，先到达终点，所以兔子获胜，且兔子速度更大，图中两线有交点，表示相遇。",
+    "source": "2024-2025学年度第一学期八年级期中考试物理试题卷",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/dfa0861b-4842-4ec4-87a1-c0312604cffc.png?se=2025-10-11T14%3A43%3A40Z&sp=r&sv=2025-01-05&sr=b&sig=wZ99CII7c3vMkFwQqvptKGPeTXbTUMgnP7vbwlYb4bg%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q12",
+    "question": "下列研究实例对应的研究方法正确的是（ ）。",
+    "options": [
+      {
+        "A": "探究蒸发快慢的影响因素——利用了科学推理法"
+      },
+      {
+        "B": "将发声的音叉放入水中水花四溅，证明发声的音叉在振动——利用了转换法"
+      },
+      {
+        "C": "将玻璃罩內的空气逐渐抽出时声音逐渐减小，得出真空不能传声———利用了控制变量法"
+      },
+      {
+        "D": "为了描述光的传播径迹和方向人们引入了“光线”——理想模型法"
+      }
+    ],
+    "selection_mode": "multi",
+    "correct_answer": ["B", "D"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["科学方法", "控制变量法", "转换法", "理想模型法"],
+    "explanation": "探究蒸发快慢的影响因素应用控制变量法；将发声的音叉放入水中，通过水花说明音叉在振动，是转换法；真空不能传声是通过实验推理出来的，利用了科学推理法；光线是理想模型。",
+    "source": "2024-2025学年度第一学期八年级期中考试物理试题卷",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  }
+]

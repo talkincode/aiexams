@@ -1,0 +1,407 @@
+[
+  {
+    "id": "q1",
+    "question": "下列各项描述的现象中，能说明声音的传播需要介质的是（ ）。",
+    "options": [
+      {
+        "A": "小“人”随着音乐起舞"
+      },
+      {
+        "B": "正在发声的音叉激起水花"
+      },
+      {
+        "C": "抽出空气时铃声逐渐变小"
+      },
+      {
+        "D": "正在发声的音叉将乒乓球弹开"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中物理",
+    "difficulty": "简单",
+    "tags": ["声音", "传播", "介质"],
+    "explanation": "A、B、D选项均说明声音的产生需要振动，C选项说明声音的传播需要介质。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/92d1a654-b133-42b7-ab06-56aef599915c.png?se=2025-10-11T13%3A47%3A20Z&sp=r&sv=2025-01-05&sr=b&sig=cbQUwUV0MDwV1FVngjWBvVmOpfHVKZxN8jw2AAnW5IU%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q2",
+    "question": "甲、乙两同学从同一地点同时向相同方向做直线运动，他们通过的路程随时间变化的图像如图所示，根据图像分析，下列说法正确的是（ ）。",
+    "options": [
+      {
+        "A": "两同学在距离出发点 100m 处相遇"
+      },
+      {
+        "B": "在 0~10s 内，乙同学比甲同学运动得快"
+      },
+      {
+        "C": "在 10~20s 内，甲同学做匀速直线运动"
+      },
+      {
+        "D": "在 0~10s 内，乙同学的速度为 10m/s"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["运动", "图像", "速度"],
+    "explanation": "根据图像，A选项正确；B选项中，0~10s内甲的速度大于乙的速度；C选项中，10~20s内，甲静止；D选项中，乙的速度为100m/15s ≈ 6.67m/s。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/67dfac87-dc66-4ba9-b556-6f2040afa789.png?se=2025-10-11T13%3A47%3A55Z&sp=r&sv=2025-01-05&sr=b&sig=52AW8VKQqWaGTscESZCV7HfYXiH8A6FDOZBdwbfrfds%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q3",
+    "question": "正确写字姿势的“三个一”：眼离书本一尺远，胸离书桌一拳远，手离笔尖一寸远。关于“眼离书本一尺远”的估算最合理的是（ ）。",
+    "options": [
+      {
+        "A": "约 10cm"
+      },
+      {
+        "B": "约 30cm"
+      },
+      {
+        "C": "约 60cm"
+      },
+      {
+        "D": "约 100cm"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中物理",
+    "difficulty": "简单",
+    "tags": ["长度", "估算", "单位换算"],
+    "explanation": "1米等于3尺，1尺约等于0.33米，即33cm，所以最接近30cm。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/2751da82-d503-4d1e-a83c-286a00fe34ec.png?se=2025-10-11T13%3A48%3A33Z&sp=r&sv=2025-01-05&sr=b&sig=nSyctxfenbFtJTOw6s6pEGIzLVDGxh8JfBvwbomkPs4%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q4",
+    "question": "如图所示，分别是甲、乙、丙、丁四个物体发出的声音在示波器上显示的波形，下面关于四者发出声音的特性描述正确的是（ ）。",
+    "options": [
+      {
+        "A": "甲、乙音调不同"
+      },
+      {
+        "B": "乙、丙响度不同"
+      },
+      {
+        "C": "丙、丁音色不同"
+      },
+      {
+        "D": "甲、乙、丙音调和响度都不相同"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["声音", "波形", "音调", "响度", "音色"],
+    "explanation": "甲、乙波形振动频率相同，音调相同；乙、丙振幅相同，响度相同；丙、丁波形不同，音色不同。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/a4765473-1345-412e-be48-bee7ad540bf3.png?se=2025-10-11T13%3A49%3A07Z&sp=r&sv=2025-01-05&sr=b&sig=i5//i7r16nqgN2Yo8FOqfu%2BBMqRRTO0LQYi3LkM%2Bq0E%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q5",
+    "question": "关于误差，下列说法正确的是（ ）。",
+    "options": [
+      {
+        "A": "误差是由于测量时粗心大意造成的，是可以避免的"
+      },
+      {
+        "B": "选用精确度高的测量仪器，就可以减小误差"
+      },
+      {
+        "C": "多次测量取平均值，就可以避免误差"
+      },
+      {
+        "D": "误差就是错误"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中物理",
+    "difficulty": "简单",
+    "tags": ["误差", "测量", "仪器"],
+    "explanation": "误差是在测量过程中产生的，不能完全避免，可以减小。A,C,D均错误，B选项正确。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q6",
+    "question": "一短跑运动员 5s 内跑了 40m，羚羊的奔跑速度是 25m/s，汽车的行驶速度是 72km/h，三者速度从小到大的排序是（ ）。",
+    "options": [
+      {
+        "A": "羚羊、汽车、运动员"
+      },
+      {
+        "B": "汽车、羚羊、运动员"
+      },
+      {
+        "C": "运动员、汽车、羚羊"
+      },
+      {
+        "D": "运动员、羚羊、汽车"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中物理",
+    "difficulty": "简单",
+    "tags": ["速度", "单位换算", "比较"],
+    "explanation": "运动员速度为8m/s，汽车速度为20m/s，羚羊速度为25m/s。所以速度从小到大的排序为：运动员、汽车、羚羊。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q7",
+    "question": "下列几种现象中，不属于机械运动的是（ ）。",
+    "options": [
+      {
+        "A": "划破夜空的流星运动"
+      },
+      {
+        "B": "奔驰骏马的运动"
+      },
+      {
+        "C": "上课的铃声传到同学们耳中"
+      },
+      {
+        "D": "地球绕太阳公转"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中物理",
+    "difficulty": "简单",
+    "tags": ["机械运动", "运动", "声音"],
+    "explanation": "机械运动是指物体位置发生变化的运动。A、B、D选项物体的位置都发生了变化。C选项声音传播不是机械运动。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q8",
+    "question": "下列关于声音的说法正确的是（ ）。",
+    "options": [
+      {
+        "A": "蜜蜂的翅膀在 3s 内振动了 1500 次，我们不能听到蜜蜂翅膀振动的声音"
+      },
+      {
+        "B": "医生利用超声波去除人体内的结石，这是利用声能传递能量"
+      },
+      {
+        "C": "在室内讲话比在旷野里响亮，是因为声速在室内比在旷野里大"
+      },
+      {
+        "D": "手在小提琴上不同的位置按弦，目的是改变音色"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["声音", "超声波", "音速", "音色"],
+    "explanation": "A选项蜜蜂振动频率为500Hz,人耳能听到。B选项正确。C选项声速与介质有关，室内外空气传播速度相同。D选项按弦改变音调。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q9",
+    "question": "佳佳在跑步过程中，若在前半路程的速度为 5m/s，后半路程速度 3m/s，佳佳全程平均速度为（ ）。",
+    "options": [
+      {
+        "A": "3.75m/s"
+      },
+      {
+        "B": "4m/s"
+      },
+      {
+        "C": "3.25m/s"
+      },
+      {
+        "D": "4.5m/s"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["平均速度", "运动"],
+    "explanation": "设总路程为2s，则前一半路程时间为s/5,后一半路程时间为s/3,平均速度为总路程除以总时间，计算得到3.75m/s。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q10",
+    "question": "关于神舟十八号宇航员在空间站谈话时的声音，下列说法正确的是（ ）。",
+    "options": [
+      {
+        "A": "空间站内声音的传播速度为3×10^8m/s"
+      },
+      {
+        "B": "航天员的声音可以通过超声波传回地球"
+      },
+      {
+        "C": "在空间站内，叶光富可根据音色判断说话的是哪位宇航员"
+      },
+      {
+        "D": "回看谈话场景，用二倍速播放时声音变尖是因为改变了声音的响度"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["声音", "传播", "空间站", "音色"],
+    "explanation": "A选项空间站内声音传播介质是空气，不是光速；B选项超声波无法真空传播；D选项变尖是因为改变了音调。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q11",
+    "question": "CCTV 推出一档大型文博探索节目《国家宝藏》，小琳特别关注了“贾湖骨笛”和“曾侯乙编钟”两件国宝，下面说法错误的是（ ）。",
+    "options": [
+      {
+        "A": "敲击编钟，编钟因振动而发出声音"
+      },
+      {
+        "B": "轻敲或重敲编钟同一位置，编钟发出声音的响度不同"
+      },
+      {
+        "C": "吹奏骨笛时，按压骨笛不同位置的气孔，发出声音的音色不同"
+      },
+      {
+        "D": "悦耳的骨笛声是通过空气传入人耳中的"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["声音", "振动", "响度", "音色"],
+    "explanation": "A选项正确，声音由振动产生；B选项正确，轻敲重敲改变振幅，影响响度；C选项改变空气柱长度，改变音调；D选项声音传播需要介质。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/0226cf1e-49f3-4d4f-ac0c-af0c98bf183f.png?se=2025-10-11T13%3A49%3A37Z&sp=r&sv=2025-01-05&sr=b&sig=PyntZg3j70gfowjKzYGOy0uNqC4XXUP0s1s2m8vAV9g%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q12",
+    "question": "神舟十六号载人飞船于 2023 年 5 月 30 日成功发射，如图所示是载人飞船与空间站即将完成自主交会对接时的画面，我们用天文望远镜可以看到“天宫”空间站从天空掠过。下列说法正确的是（ ）。",
+    "options": [
+      {
+        "A": "对接前，飞船和空间站相对于地球都是静止的"
+      },
+      {
+        "B": "对接后，飞船相对于空间站是静止的"
+      },
+      {
+        "C": "无论选择哪个物体作为参照物，飞船始终是运动的"
+      },
+      {
+        "D": "“天宫”空间站绕地球同步运行"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["运动", "参照物", "空间站"],
+    "explanation": "A选项对接前，相对地球是运动的；B选项正确，对接后相对空间站是静止的；C选项相对不同参照物可能静止也可能运动；D选项天宫空间站不是地球同步卫星。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/eb223a9b-2b44-463c-843d-86a04054fbd8.png?se=2025-10-11T13%3A50%3A19Z&sp=r&sv=2025-01-05&sr=b&sig=maq4R2L5IDnKUGwewNXvoEc/I7BfAgyhRhSsL7Rk%2BQo%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q13",
+    "question": "古时排箫（管乐器）又叫做“参差”，是由长短不一的竹管组成，所以人们都说“参差不齐”，如图所示；其竹管参差不齐，目的是为了改变声音的（ ）。",
+    "options": [
+      {
+        "A": "音调"
+      },
+      {
+        "B": "音色"
+      },
+      {
+        "C": "传播速度"
+      },
+      {
+        "D": "响度"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["声音", "乐器", "音调"],
+    "explanation": "排箫通过改变空气柱长度，改变振动频率，从而改变音调。",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/99f6d2dd-ddba-46fb-8eaf-d59a03d338c1.png?se=2025-10-11T13%3A50%3A44Z&sp=r&sv=2025-01-05&sr=b&sig=6PdlEseFGgyNkCghmHcyd9iH/1bnKjattBFyiipPLNM%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q14",
+    "question": "关于声音，下列说法中正确的是（ ）。",
+    "options": [
+      {
+        "A": "我们能区分出小提琴和二胡的声音，是因为它们发出声音的音调不同"
+      },
+      {
+        "B": "我们无法听到蝴蝶飞过的声音，是因为蝴蝶翅膀振动发出超声波"
+      },
+      {
+        "C": "在花样游泳比赛中，运动员在水中也能听到音乐，这是因为水能传声"
+      },
+      {
+        "D": "老师讲课的声音，会带动周围的空气振动形成声波传到同学的耳朵里"
+      }
+    ],
+    "selection_mode": "multi",
+    "correct_answer": ["C", "D"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["声音", "音色", "超声波", "传播"],
+    "explanation": "A选项区分乐器声音是音色不同；B选项蝴蝶翅膀振动属于次声波；CD正确",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q15",
+    "question": "如图所示在A、B、C、D 4个相同的玻璃瓶中，装入不同高度的水，则（ ）。",
+    "options": [
+      {
+        "A": "敲打D瓶发出的声音传播得最快"
+      },
+      {
+        "B": "用嘴依次吹瓶口，A的音调最高"
+      },
+      {
+        "C": "用筷子依次敲打瓶口，A的音调最高"
+      },
+      {
+        "D": "用筷子依次敲打瓶口，D的音调最高"
+      }
+    ],
+    "selection_mode": "multi",
+    "correct_answer": ["B", "D"],
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["声音", "传播", "音调", "频率"],
+    "explanation": "A选项，速度与介质无关；B选项正确，用嘴吹发声体是空气柱，瓶内水越多，空气柱越短，频率越高，音调越高；C选项敲击发声体是瓶和水，水越多，音调越低；D选项正确，发声体为瓶和水，D水少，所以音调高",
+    "source": "湖南省长沙市长郡雨花外国语学校2024-2025学年八年级上学期第一次月考物理试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/59a5819e-0f36-4ebb-84ee-c896cb454a96.png?se=2025-10-11T13%3A51%3A31Z&sp=r&sv=2025-01-05&sr=b&sig=yYk3pP2Klh027fuIdZCqHxdXilc3/tmV73%2BTU2bCPR4%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "q1",
+    "question": "在以下绿色食品、回收、节能、节水四个标志中，是轴对称图形的是（ ）",
+    "options": [
+      {
+        "A": "绿色食品标志"
+      },
+      {
+        "B": "回收标志"
+      },
+      {
+        "C": "节能标志"
+      },
+      {
+        "D": "节水标志"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "数学",
+    "difficulty": "简单",
+    "tags": ["轴对称图形"],
+    "explanation": "轴对称图形是指沿着一条直线对折后，两部分完全重合的图形。绿色食品标志是轴对称图形，其他三个不是。",
+    "source": "湖南省长沙市长郡教育集团联考2023-2024学年八年级上学期期末数学试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/e8a6b628-5b2e-4c24-a32c-bc0394b72e60.png?se=2025-10-11T07%3A37%3A56Z&sp=r&sv=2025-01-05&sr=b&sig=N57UY1ZvcmV9rBn%2Bpycjd55XPGYX8w9EvE%2BC6aAdqZg%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q2",
+    "question": "下列计算正确的是（ ）",
+    "options": [
+      {
+        "A": "$b^3 - b^3 = 2b^3$"
+      },
+      {
+        "B": "$(ab^2)^3 = a^3b^6$"
+      },
+      {
+        "C": "$a^{10} ÷ a^2 = a^2$"
+      },
+      {
+        "D": "$a^2 + a^3 = a^5$"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "数学",
+    "difficulty": "简单",
+    "tags": ["整式运算", "幂的运算"],
+    "explanation": "A选项，应为$b^3-b^3=0$。B选项，$(ab^2)^3 = a^3(b^2)^3 = a^3b^6$。C选项，应为$a^{10} ÷ a^2 = a^8$。D选项，$a^2$和$a^3$不是同类项，不能直接相加。",
+    "source": "湖南省长沙市长郡教育集团联考2023-2024学年八年级上学期期末数学试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q3",
+    "question": "根据携程发布的《2024年元旦跨年旅游报告》显示：星城长沙上榜2024年元旦跨年热门旅游目的地。元旦假期，长沙市接待游客超过6000000人次，6000000用科学记数法表示应为（ ）",
+    "options": [
+      {
+        "A": "$0.6 \\times 10^7$"
+      },
+      {
+        "B": "$6 \\times 10^7$"
+      },
+      {
+        "C": "$6 \\times 10^6$"
+      },
+      {
+        "D": "$6 \\times 10^5$"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "数学",
+    "difficulty": "简单",
+    "tags": ["科学记数法"],
+    "explanation": "科学记数法的形式为$a \\times 10^n$，其中$1 \\le |a| < 10$，$n$为整数。6000000可以表示为$6 \\times 10^6$。",
+    "source": "湖南省长沙市长郡教育集团联考2023-2024学年八年级上学期期末数学试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q4",
+    "question": "下列属于最简二次根式的是（ ）",
+    "options": [
+      {
+        "A": "$\\sqrt{9}$"
+      },
+      {
+        "B": "$\\sqrt{10}$"
+      },
+      {
+        "C": "$\\sqrt{0.5}$"
+      },
+      {
+        "D": "$\\sqrt{4a}$"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "数学",
+    "difficulty": "简单",
+    "tags": ["二次根式"],
+    "explanation": "最简二次根式的被开方数不含能开得尽方的因数或因式，且被开方数不含分母。A选项，$\\sqrt{9}=3$，不是最简二次根式。B选项，$\\sqrt{10}$是最简二次根式。C选项，$\\sqrt{0.5}$中，被开方数含分母。D选项，$\\sqrt{4a}$中，被开方数含有能开得尽方的因式4。",
+    "source": "湖南省长沙市长郡教育集团联考2023-2024学年八年级上学期期末数学试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q5",
+    "question": "如果$x^2 + 6x + m$是一个完全平方式，则$m$的值是（ ）",
+    "options": [
+      {
+        "A": "3"
+      },
+      {
+        "B": "9"
+      },
+      {
+        "C": "6"
+      },
+      {
+        "D": "-9"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "数学",
+    "difficulty": "简单",
+    "tags": ["完全平方式"],
+    "explanation": "根据完全平方公式$(x+a)^2 = x^2 + 2ax + a^2$，可知$x^2 + 6x + m = (x+3)^2 = x^2 + 6x + 9$，所以$m=9$。",
+    "source": "湖南省长沙市长郡教育集团联考2023-2024学年八年级上学期期末数学试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q6",
+    "question": "把分式$\\frac{xy}{x+y}$中的$x$和$y$都扩大10倍，则分式的值（ ）",
+    "options": [
+      {
+        "A": "扩大10倍"
+      },
+      {
+        "B": "扩大100倍"
+      },
+      {
+        "C": "缩小为$\\frac{1}{10}$"
+      },
+      {
+        "D": "不变"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "数学",
+    "difficulty": "简单",
+    "tags": ["分式性质"],
+    "explanation": "将x和y都扩大10倍，则分式变为$\\frac{10x \\times 10y}{10x + 10y} = \\frac{100xy}{10(x+y)} = \\frac{10xy}{x+y}$，因此分式的值扩大10倍。",
+    "source": "湖南省长沙市长郡教育集团联考2023-2024学年八年级上学期期末数学试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q7",
+    "question": "等腰三角形的周长是13cm，其中一边长是3cm，则该等腰三角形的腰长为（ ）",
+    "options": [
+      {
+        "A": "3cm"
+      },
+      {
+        "B": "7cm"
+      },
+      {
+        "C": "5cm"
+      },
+      {
+        "D": "3cm或5cm"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "数学",
+    "difficulty": "中等",
+    "tags": ["等腰三角形", "周长"],
+    "explanation": "当腰长为3cm时，则底边为13-2*3=7cm,而3+3<7,不能构成三角形。当底边为3cm时，腰长为(13-3)/2 = 5cm，则可以构成三角形。故腰长为5cm。",
+    "source": "湖南省长沙市长郡教育集团联考2023-2024学年八年级上学期期末数学试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q8",
+    "question": "在△ABC中，∠ACB为直角，∠A=30°，CD⊥AB于D，若BD=1，则AB的长度是（ ）",
+    "options": [
+      {
+        "A": "4"
+      },
+      {
+        "B": "3"
+      },
+      {
+        "C": "2"
+      },
+      {
+        "D": "1"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["A"],
+    "category": "数学",
+    "difficulty": "中等",
+    "tags": ["直角三角形", "三角函数"],
+    "explanation": "因为∠A=30°，则∠BCD=30°。直角三角形中，30°角所对的直角边等于斜边的一半，故BC=2BD=2。又因为∠A=30°，故AB=2BC=4。",
+    "source": "湖南省长沙市长郡教育集团联考2023-2024学年八年级上学期期末数学试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/beb86589-b8d9-44d7-ae5e-4c2d5eee3356.png?se=2025-10-11T07%3A38%3A46Z&sp=r&sv=2025-01-05&sr=b&sig=Ltp6s/sIX8vZYcKxnwY8iwdoZJuX9JI0%2BFkEsNfwXYk%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q9",
+    "question": "某地开展建设绿色家园活动，活动期间，计划每天种植相同数量的树木，该活动开始后，实际每天比原计划每天多植树50棵，实际植树400棵所需时间与原计划植树300棵所需时间相同。设实际每天植树x棵。则下列方程正确的是（ ）",
+    "options": [
+      {
+        "A": "$\\frac{400}{x-50} = \\frac{300}{x}$"
+      },
+      {
+        "B": "$\\frac{400}{x} = \\frac{300}{x-50}$"
+      },
+      {
+        "C": "$\\frac{300}{x+50} = \\frac{400}{x}$"
+      },
+      {
+        "D": "$\\frac{300}{x-50} = \\frac{400}{x}$"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["B"],
+    "category": "数学",
+    "difficulty": "中等",
+    "tags": ["分式方程", "实际应用"],
+    "explanation": "设实际每天植树x棵，则原计划每天植树x-50棵。根据题意，实际植树400棵所需时间等于原计划植树300棵所需时间，则可以列出方程$\\frac{400}{x} = \\frac{300}{x-50}$。",
+    "source": "湖南省长沙市长郡教育集团联考2023-2024学年八年级上学期期末数学试题",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q10",
+    "question": "如图，已知∠AOB=120°，点D是∠AOB的平分线上的一个定点，点E，F分别在射线OA和射线OB上，且∠EDF=60°。下列结论：①△DEF是等边三角形；②四边形DEOF的面积是一个定值；③当DE⊥OA时，△DEF的周长最小；④当DE//OB时，DF也平行于OA。其中正确的个数是（ ）",
+    "options": [
+      {
+        "A": "1个"
+      },
+      {
+        "B": "2个"
+      },
+      {
+        "C": "3个"
+      },
+      {
+        "D": "4个"
+      }
+    ],
+    "selection_mode": "single",
+    "correct_answer": ["C"],
+    "category": "数学",
+    "difficulty": "困难",
+    "tags": ["角平分线", "全等三角形", "等边三角形"],
+    "explanation": "连接OD，作DM⊥OA于M，DN⊥OB于N。由角平分线的性质定理可得DM=DN，证明△MDE≌△NDF(ASA)，则DE=DF，△DEF是等边三角形；由△MDE≌△NDF(ASA)，可知S四边形DEOF = S四边形DMON，为一个定值；△DEF的周长为3DE，可知当DE⊥OA时，DE最短，△DEF的周长最小；当DE∥OB时，∠E'DO=∠BOD=60°=∠AOD，则△E'DO是等边三角形，则F与O重合，DF与OA交于点O。因此，结论①②③正确，结论④错误。",
+    "source": "湖南省长沙市长郡教育集团联考2023-2024学年八年级上学期期末数学试题",
+    "img_url": "https://teamsedgejpwest.blob.core.windows.net/exam-images/541291d4-af12-49f9-a70d-69537a7746a0.png?se=2025-10-11T07%3A39%3A27Z&sp=r&sv=2025-01-05&sr=b&sig=v/9MdMlStpavbqpD8wGRtP8xgp0VXRJpAyVxk/ZipQ4%3D",
+    "created_at": "2024-12-14T14:36:00Z"
+  }
+]

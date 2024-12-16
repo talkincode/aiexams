@@ -1,0 +1,84 @@
+[
+    {
+        "id": "1b8d5f9c-9c70-4f6a-8fba-1f7a3e6f0e63",
+        "question": "请解释Python中如何定义一个函数，并给出一个计算两个数字之和的函数示例。",
+        "answer": "在Python中，可以使用 `def` 关键字定义一个函数。函数的定义格式为：`def 函数名(参数):`，然后在下一行缩进的位置写函数的功能代码。以下是一个计算两个数字之和的函数示例：\n```python\ndef add_numbers(a, b):\n    return a + b\n```",
+        "category": "Python 编程",
+        "difficulty": "中等",
+        "tags": [
+            "Python",
+            "基础语法",
+            "函数定义"
+        ],
+        "explanation": "Python中，函数定义以 `def` 关键字开始，后跟函数名和圆括号中的参数列表。冒号 `:` 表示函数体开始，函数体内的代码通常缩进以表示层级。示例中，`add_numbers` 函数接受两个参数 `a` 和 `b`，并返回它们的和。",
+        "source": "Python 编程基础教材",
+        "img_url": "",
+        "created_at": "2024-12-14T14:36:00Z"
+    },
+    {
+        "id": "e8f9f9d4-6a9c-4b12-9d59-8c32c7d5a5ab",
+        "question": "在Python中，如何使用循环结构来遍历一个列表，并打印出每个元素？请提供示例代码。",
+        "answer": "在Python中，使用 `for` 循环可以遍历一个列表，并打印出每个元素。以下是示例代码：\n```python\nmy_list = [1, 2, 3, 4, 5]\nfor element in my_list:\n    print(element)\n```",
+        "category": "Python 编程",
+        "difficulty": "中等",
+        "tags": [
+            "Python",
+            "基础语法",
+            "循环",
+            "列表遍历"
+        ],
+        "explanation": "Python的 `for` 循环用于遍历序列（如列表、元组、字符串等）。在示例中，`my_list` 是一个包含整数的列表。`for element in my_list:` 表示遍历 `my_list` 中的每个元素，并在循环体内访问这些元素。`print(element)` 语句输出当前元素。",
+        "source": "Python 编程基础教材",
+        "img_url": "",
+        "created_at": "2024-12-14T14:36:00Z"
+    },
+    {
+        "id": "b2c5a65f-4cfa-4e8e-81c7-d7d6e9f1e5c3",
+        "question": "请描述Python中的条件结构，并提供一个判断一个数字是正数、负数或零的示例代码。",
+        "answer": "Python中的条件结构使用 `if`、`elif` 和 `else` 关键字。以下是一个判断数字是正数、负数或零的示例代码：\n```python\nnum = 3\nif num > 0:\n    print(\"正数\")\nelif num < 0:\n    print(\"负数\")\nelse:\n    print(\"零\")\n```",
+        "category": "Python 编程",
+        "difficulty": "中等",
+        "tags": [
+            "Python",
+            "基础语法",
+            "条件结构"
+        ],
+        "explanation": "条件结构用于根据表达式的结果执行不同的代码块。`if` 后跟的条件为真时，执行对应的代码块。`elif` 是 `else if` 的缩写，用于检查多个表达式。`else` 在所有条件为假时执行。示例代码中，根据 `num` 的值判断并打印该数字是正数、负数还是零。",
+        "source": "Python 编程基础教材",
+        "img_url": "",
+        "created_at": "2024-12-14T14:36:00Z"
+    },
+    {
+        "id": "d282c3b7-1cf4-4b7e-8c33-a5d4e5f8a9c9",
+        "question": "如何在Python中定义一个列表，并向列表中添加元素？请提供示例代码。",
+        "answer": "在Python中，列表通过方括号 `[]` 定义，可以使用 `append()` 方法向列表中添加元素。以下是示例代码：\n```python\nmy_list = []  # 定义空列表\nmy_list.append(1)  # 添加元素 1\nmy_list.append(2)  # 添加元素 2\nprint(my_list)\n```",
+        "category": "Python 编程",
+        "difficulty": "中等",
+        "tags": [
+            "Python",
+            "基础语法",
+            "列表",
+            "元素添加"
+        ],
+        "explanation": "列表是一种可变的序列类型，使用 `[]` 定义。`append()` 方法用于在列表末尾添加元素。在示例中，首先定义了一个空列表 `my_list`，然后使用 `append()` 方法逐个添加元素 `1` 和 `2`。最后，`print(my_list)` 输出列表内容。",
+        "source": "Python 编程基础教材",
+        "img_url": "",
+        "created_at": "2024-12-14T14:36:00Z"
+    },
+    {
+        "id": "f9d1c9a9-6e1c-4e9f-b2d2-8f9b7e9f3b2a",
+        "question": "如何在Python中处理异常？请举例说明如何处理除零异常。",
+        "answer": "在Python中，可以使用 `try` 和 `except` 语句来处理异常。以下是处理除零异常的示例代码：\n```python\ntry:\n    result = 10 / 0\nexcept ZeroDivisionError:\n    print(\"除数不能为零\")\n```",
+        "category": "Python 编程",
+        "difficulty": "中等",
+        "tags": [
+            "Python",
+            "基础语法",
+            "异常处理"
+        ],
+        "explanation": "异常处理通过 `try` 块捕获可能引发异常的代码，和 `except` 块处理异常。在示例中，`try` 块尝试执行除法 `10 / 0`，这会引发 `ZeroDivisionError`。`except ZeroDivisionError:` 捕获到该异常后，执行 `print(\"除数不能为零\")`，输出错误信息而不中断程序。",
+        "source": "Python 编程基础教材",
+        "img_url": "",
+        "created_at": "2024-12-14T14:36:00Z"
+    }
+]

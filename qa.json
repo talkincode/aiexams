@@ -1,0 +1,50 @@
+[
+  {
+    "id": "q1",
+    "question": "请写出杜甫《望岳》中的一句描写泰山高大雄伟气势的诗句。",
+    "answer": "会当凌绝顶，一览众山小。",
+    "category": "初中语文",
+    "difficulty": "中等",
+    "tags": ["古诗","杜甫", "泰山", "语文鉴赏"],
+    "explanation": "这句诗出自杜甫的《望岳》，作者面对泰山的雄奇景象，发出\"会当凌绝顶，一览众山小\"的豪迈感叹，以高居绝顶俯视群山的气魄，表现了其攀登高峰、俯瞰天下的壮志和情怀。",
+    "source": "八年级语文教材",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q2",
+    "question": "在水平桌面上，一个小球受到重力和支持力的作用，但仍保持静止状态，请解释为什么小球不会向下运动。",
+    "answer": "因为小球受到的重力向下和桌面对小球的支持力向上大小相等、方向相反，所以两力平衡，小球不发生加速，从而静止不动。",
+    "category": "初中物理",
+    "difficulty": "中等",
+    "tags": ["物理","力学","平衡态","牛顿定律"],
+    "explanation": "小球受到重力（方向竖直向下）和桌面的支持力（方向竖直向上）。由于小球静止，受力平衡，即两股力大小相同、方向相反，合力为零，小球没有加速度，不会向下掉落。",
+    "source": "八年级物理教材",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q3",
+    "question": "请将以下中文句子翻译成英文：\"我昨天在图书馆借了一本有趣的英文小说。\"",
+    "answer": "I borrowed an interesting English novel from the library yesterday.",
+    "category": "初中英语",
+    "difficulty": "中等",
+    "tags": ["英语","翻译","词序","时态"],
+    "explanation": "翻译时需要注意时间状语的位置(yesterday)、动词时态(过去式borrowed)以及英语句子结构的常规顺序，即主语(I)＋动词(borrowed)＋宾语(an interesting English novel)＋地点状语(from the library)＋时间状语(yesterday)。",
+    "source": "八年级英语教材",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  },
+  {
+    "id": "q4",
+    "question": "已知一只正三角形纸片的每条边长为6厘米，求其面积。(提示：正三角形的面积公式为 $A=\\frac{\\sqrt{3}}{4}a^{2}$，其中 $a$ 为边长)",
+    "answer": "该正三角形的面积为 $ \\frac{\\sqrt{3}}{4}\\times6^{2} = \\frac{\\sqrt{3}}{4}\\times36 = 9\\sqrt{3}$ 平方厘米。",
+    "category": "初中数学",
+    "difficulty": "中等",
+    "tags": ["数学","几何","正三角形","面积计算"],
+    "explanation": "正三角形的面积公式为 $$A=\\frac{\\sqrt{3}}{4}a^{2}$$ 这里 $a=6$，将其代入可得 $$A=\\frac{\\sqrt{3}}{4}\\times36=9\\sqrt{3}$$ ",
+    "source": "八年级数学教材",
+    "img_url": "",
+    "created_at": "2024-12-14T14:36:00Z"
+  }
+]

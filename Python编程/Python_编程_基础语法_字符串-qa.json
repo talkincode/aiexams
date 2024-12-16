@@ -1,0 +1,97 @@
+[
+    {
+        "id": "a1f7b5e2-dfc3-4c3d-a3c9-3c0a6bde8e8d",
+        "question": "在Python中，如何获取字符串 'Hello World' 的长度？",
+        "answer": "可以使用Python的内置函数 len() 来获取字符串的长度，即 len('Hello World')。",
+        "category": "Python 编程",
+        "user_code": "global",
+        "difficulty": "简单",
+        "tags": [
+            "Python",
+            "基础语法",
+            "字符串",
+            "len函数"
+        ],
+        "explanation": "在Python中，len() 是一个内置函数，用于返回字符串、列表、字典等对象的长度。对于字符串 'Hello World'，使用 len('Hello World') 会返回整型值 11，因为字符串中包含11个字符，包括空格。",
+        "source": "Python 基础语法教程",
+        "imgb64": "",
+        "img_url": "",
+        "created_at": "2024-12-14T14:36:00Z"
+    },
+    {
+        "id": "b2c8f486-2e1b-4c6a-9a52-5b4f7e9d6b6c",
+        "question": "如何在Python中将字符串 'python' 转换为大写字母？",
+        "answer": "可以使用字符串的方法 upper() 来将字符串转换为大写，即 'python'.upper()。",
+        "category": "Python 编程",
+        "user_code": "global",
+        "difficulty": "简单",
+        "tags": [
+            "Python",
+            "基础语法",
+            "字符串",
+            "字符串方法"
+        ],
+        "explanation": "在Python中，字符串对象有一个叫做 upper() 的方法，它可以将字符串中的所有字符转换为大写。对于字符串 'python'，调用 'python'.upper() 将返回 'PYTHON'。",
+        "source": "Python 基础语法教程",
+        "imgb64": "",
+        "img_url": "",
+        "created_at": "2024-12-14T14:36:00Z"
+    },
+    {
+        "id": "c3d9e8f4-3df2-4a8e-9c5c-1e0a7bfe9c7d",
+        "question": "在Python中，如何检查字符串 'Python' 是否以字符 'P' 开头？",
+        "answer": "可以使用字符串的方法 startswith() 来检查，即 'Python'.startswith('P')。",
+        "category": "Python 编程",
+        "user_code": "global",
+        "difficulty": "简单",
+        "tags": [
+            "Python",
+            "基础语法",
+            "字符串",
+            "字符串方法"
+        ],
+        "explanation": "在Python中，startswith() 方法用于判断字符串是否以指定的子字符串开头。对于字符串 'Python'，调用 'Python'.startswith('P') 将返回布尔值 True，因为 'Python' 确实以字符 'P' 开头。",
+        "source": "Python 基础语法教程",
+        "imgb64": "",
+        "img_url": "",
+        "created_at": "2024-12-14T14:36:00Z"
+    },
+    {
+        "id": "d4ea1f65-5f7e-4a6b-8b6e-2e0f8d9a6e8b",
+        "question": "如何在Python中将字符串 '  hello  ' 的前后空格去除？",
+        "answer": "可以使用字符串的方法 strip() 来去除字符串两端的空格，即 '  hello  '.strip()。",
+        "category": "Python 编程",
+        "user_code": "global",
+        "difficulty": "简单",
+        "tags": [
+            "Python",
+            "基础语法",
+            "字符串",
+            "字符串方法"
+        ],
+        "explanation": "在Python中，strip() 方法用于移除字符串头尾的空格或指定字符。对于字符串 '  hello  '，调用 '  hello  '.strip() 将返回 'hello'，去除了两侧的空格。",
+        "source": "Python 基础语法教程",
+        "imgb64": "",
+        "img_url": "",
+        "created_at": "2024-12-14T14:36:00Z"
+    },
+    {
+        "id": "e5fb2a73-6f8b-4c9d-b7a5-3d1a9f7b8c6d",
+        "question": "在Python中，如何将字符串 '12345' 转换为整数？",
+        "answer": "可以使用 int() 函数将字符串转换为整数，即 int('12345')。",
+        "category": "Python 编程",
+        "user_code": "global",
+        "difficulty": "简单",
+        "tags": [
+            "Python",
+            "基础语法",
+            "字符串",
+            "类型转换"
+        ],
+        "explanation": "在Python中，int() 是一个内置函数，用于将一个字符串或数值转换为整数。对于字符串 '12345'，使用 int('12345') 会返回整数 12345。",
+        "source": "Python 基础语法教程",
+        "imgb64": "",
+        "img_url": "",
+        "created_at": "2024-12-14T14:36:00Z"
+    }
+]
